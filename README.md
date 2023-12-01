@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Niles, a.k.a (here comes many nicknames...): Musty, NerdyEagle  
-💬 "Free cheese is only in a mousetrap." - Russian Proverb
+💬 "Free cheese is only in a mousetrap." - Russian Proverb  
 🗣️ Java | C# | Rust | Lua  
 💻 Playing around with Unity, Bevy, Flax, Source 2  
 📻 Youtube channel (on-going, mostly about Dota 2 Workshop Tools): https://www.youtube.com/@nilescongmakesgames  
