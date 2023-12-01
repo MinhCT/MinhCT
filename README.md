@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Niles, a.k.a (here comes many nicknames...): Musty, NerdyEagle  
+### Hi there 👋, I'm Niles, a.k.a Musty/NerdyEagle  
 💬 "Free cheese is only in a mousetrap." - Russian Proverb  
 🗣️ Java | C# | Rust | Lua  
 💻 Playing around with Unity, Bevy, Flax, Source 2  
