@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Niles, a.k.a (here comes many nicknames...): Musty, NerdyEagle  
+💬 "Free cheese is only in a mousetrap." - Russian Proverb
 🗣️ Java | C# | Rust | Lua  
 💻 Playing around with Unity, Bevy, Flax, Source 2  
 📻 Youtube channel (on-going, mostly about Dota 2 Workshop Tools): https://www.youtube.com/@nilescongmakesgames  
@@ -6,7 +7,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhCT&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🧑‍💻 Past Experiences
-- Game Developer (current)
+- Unity Game Developer (current)
 - Java Developer | Data Engineer (2017 - 2023)
 
 🕹️ Paticipated Game Jams:
