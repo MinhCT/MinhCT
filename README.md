@@ -12,7 +12,7 @@
 
 🕹️ Paticipated Game Jams:
 - GMTK 2023
-- Bevy #4 (Upcoming)
+- Bevy #4 (Coding!!)
 
 🌱 I’m currently learning
 - Rust
