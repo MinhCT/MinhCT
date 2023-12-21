@@ -13,7 +13,7 @@
 
 🕹️ Paticipated Game Jams:
 - GMTK 2023
-- Bevy #4 (Coding!!)
+- Bevy #4 ([Play My Game](https://nerdyeagle.itch.io/antidotes))
 
 🌱 I’m currently learning
 - Rust
