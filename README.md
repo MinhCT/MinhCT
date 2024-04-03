@@ -8,8 +8,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCT&layout=compact&theme=solarized-dark)
 
 🧑‍💻 Past Experiences
-- Game Backend Developer (current)
 - Software Engineer | Data Engineer (2017 - present)
+- Game Backend Developer (2023)
 
 🕹️ Paticipated Game Jams:
 - GMTK 2023
@@ -17,7 +17,7 @@
 
 🌱 I’m currently learning
 - Zig
-- C++ with OpenGL
+- Back to some Data Engineering stuffs
 
 <!--
 **MinhCT/MinhCT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
