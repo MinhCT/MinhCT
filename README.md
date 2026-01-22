@@ -9,7 +9,7 @@
 
 🧑‍💻 Past Experiences
 - Software Engineer | Data Engineer (2017 - present)
-- Game Backend Developer (2023)
+- Game Developer (all the time, by night)
 
 🕹️ Paticipated Game Jams:
 - GMTK 2023
