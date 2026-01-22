@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Niles, a.k.a Musty/NerdyEagle  
 💬 My fav: "Free cheese can only be found in a mousetrap." - Russian Proverb  
 🗣️ dbt | Java | C# | Golang | Rust | Lua  
-💻 Playing around with Valve's Source 2 Engine
+💻 Playing around with Valve's Source 2 Engine  
 📻 Youtube channel (pausing, mostly about Dota 2 Workshop Tools): https://www.youtube.com/@nilescongmakesgames  
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhCT)](https://github.com/anuraghazra/github-readme-stats)
