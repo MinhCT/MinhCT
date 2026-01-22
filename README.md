@@ -4,8 +4,8 @@
 💻 Playing around with Valve's Source 2 Engine  
 📻 Youtube channel (pausing, mostly about Dota 2 Workshop Tools): https://www.youtube.com/@nilescongmakesgames  
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhCT)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCT&layout=compact&theme=solarized-dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhCT&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCT&layout=compact&theme=nord)
 
 🧑‍💻 Past Experiences
 - Software Engineer | Data Engineer (2017 - present)
