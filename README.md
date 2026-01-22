@@ -18,7 +18,7 @@
 🌱 I’m currently learning
 - C++
 - Inkle's Ink
-- Back to some Data Engineering stuffs (ELT, SQL, dbt, etc.)
+- Data Engineering stuffs (ELT, SQL, dbt, etc.)
 
 <!--
 **MinhCT/MinhCT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
